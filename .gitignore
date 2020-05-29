@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+models/tweet/model-70.data-00000-of-00001
+
+models/tweet/model-70.index
+
+models/tweet/model-70.meta
+
+data/train_tweet.txt
